@@ -1,6 +1,9 @@
 # fitnessapp
-
-A new Flutter project.
+Fitness application with flutter having -
+1. pedometer
+2. BMI Calculator
+3. Diet tracker
+4. Water reminder
 
 ## Getting Started
 
